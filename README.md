@@ -2,7 +2,7 @@
 delat class learn to git
 
 # Teacher
-Himanshu
+Ankit Kumar
 
 # Stundent
 Delta Stundent
